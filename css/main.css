@@ -2858,7 +2858,7 @@ h6 {
   position: absolute;
   content: " ";
   width: 2px;
-  background-color: #4997cd;
+  background-color: #698b69;
   left: 50%;
   margin-left: -1.5px;
 }
@@ -2876,7 +2876,7 @@ h6 {
   top: 20px;
   left: 50%;
   margin-left: -25px;
-  background-color: #4997cd;
+  background-color: #698b69;
   z-index: 100;
   border-top-right-radius: 50%;
   border-top-left-radius: 50%;
@@ -2900,7 +2900,7 @@ h6 {
   top: 40px;
 }
 #timeline .timeline-badge.timeline-filter-movement a span {
-  color: #4997cd;
+  color: #698b69;
   font-size: 1.3em;
   top: -1px;
 }
@@ -2913,7 +2913,7 @@ h6 {
   margin-left: -18px;
 }
 #timeline .timeline-badge.timeline-future-movement a span {
-  color: #4997cd;
+  color: #698b69;
   font-size: .9em;
   top: 2px;
   left: 1px;
@@ -2963,3 +2963,13 @@ h6 {
 .col-sm-offset-6 {
 				margin-left: 55% !important;
 			}
+
+.feature-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.navigation-bar-container {
+  display: flex !important;
+  justify-content: center;
+}

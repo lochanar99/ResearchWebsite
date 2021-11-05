@@ -27,12 +27,6 @@ $(document).ready(function(){
     });
 
 
-  // $('.navbar-nav>li>a').on('click', function(){
-  //     $('.navbar-collapse').collapse('hide');
-  // });
-
-
-
     $('.active-works-carousel').owlCarousel({
         items:1,
         loop:true,
